@@ -1,1 +1,4 @@
-emnist_balanced_preprocessed.npz
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
