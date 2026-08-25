@@ -1,0 +1,1 @@
+Handwritten Character Recognition — A deep learning project that recognizes handwritten characters using a Convolutional Neural Network (CNN). The project includes image preprocessing, CNN model training, evaluation, and prediction of handwritten characters.
